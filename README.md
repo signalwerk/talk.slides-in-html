@@ -1,4 +1,4 @@
-# Building Slides in HTML
+# Building Slides
 
 [Show Slides](https://signalwerk.github.io/talk.slides-in-html/)
 
